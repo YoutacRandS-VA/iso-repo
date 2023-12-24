@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hugomrdias/iso-repo/compare/iso-kv-v0.2.0...iso-kv-v0.3.0) (2023-12-24)
+
+
+### Features
+
+* better json codec and avoid reverse if not needed ([849c23f](https://github.com/hugomrdias/iso-repo/commit/849c23fdf0ce154b37193a9d2a0fe4df79aa062b))
+
 ## [0.2.0](https://github.com/hugomrdias/iso-repo/compare/iso-kv-v0.1.5...iso-kv-v0.2.0) (2023-10-31)
 
 
