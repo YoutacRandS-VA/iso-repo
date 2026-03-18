@@ -107,7 +107,7 @@
     "test:browser": "playwright-test 'test/**/!(*.node).test.js'"
   },
   "dependencies": {
-    "base-x": "^4.0.0",
+    "base-x": "^4.0.1",
     "bigint-mod-arith": "^3.3.1"
   },
   "devDependencies": {
